@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ferm.ViewDB" Collapsed="true">
+    <Position X="13" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>VChQEEEAADAJAAaBCEGEUAgCAABQgAACAWgAAAQIAQQ=</HashCode>
+      <FileName>ViewDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ferm.Program" Collapsed="true">
+    <Position X="14.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ferm.Main" Collapsed="true">
+    <Position X="11.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wk1kQUgYCIQSRbAAADBRygKIAEQAK0KgHAZCwYXyTA=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ferm.Form4" Collapsed="true">
+    <Position X="18.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAACAACAAABABQIOAQAAGgAAIAAACAEAAAAIAAAA=</HashCode>
+      <FileName>Form4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ferm.Form3" Collapsed="true">
+    <Position X="16.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAAQAAAACAAgACAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ferm.Form2" Collapsed="true">
+    <Position X="14.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAIAAAAADAQAASAAAIAAAAAEAAAAEAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ferm.Form_Rules" Collapsed="true">
+    <Position X="11.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wIAAAAAACAAABAACACAAAACAAAAgAAAAAAAIAAAADA=</HashCode>
+      <FileName>Form_Rules.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ferm.Form1" Collapsed="true">
+    <Position X="13" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAAAAGAQAQAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ferm.FermDataBaseDataSet" Collapsed="true">
+    <Position X="18.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAIAEAA8sIAAJABAAAYQAAAAgCQBgAAIAgEFEAhBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ferm.Do" Collapsed="true">
+    <Position X="16.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQACACEAAAAAAGAAARAAIAAAEIEAAAAACQCAEAII=</HashCode>
+      <FileName>Do.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ferm.Calc" Collapsed="true">
+    <Position X="13" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAQBAAAEAA=</HashCode>
+      <FileName>Calc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ferm.FermDataBaseDataSetTableAdapters.AuthTableAdapter" Collapsed="true">
+    <Position X="11.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ferm.FermDataBaseDataSetTableAdapters.ConfigOfCalcTableAdapter" Collapsed="true">
+    <Position X="14.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ferm.FermDataBaseDataSetTableAdapters.MarketTableAdapter" Collapsed="true">
+    <Position X="13" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ferm.FermDataBaseDataSetTableAdapters.RuleTableAdapter" Collapsed="true">
+    <Position X="16.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ferm.FermDataBaseDataSetTableAdapters.StrategysTableAdapter" Collapsed="true">
+    <Position X="18.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ferm.FermDataBaseDataSetTableAdapters.СattleTableAdapter" Collapsed="true">
+    <Position X="14.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ferm.FermDataBaseDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="11.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ERACACECIABABAFBAAAAMAAgCQACiAAAIAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Gamer" Collapsed="true">
+    <Position X="11.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAARQgQBgAAIAEIECAAIAIRCrgGEAAJoQABCEABAAQI=</HashCode>
+      <FileName>Do.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
